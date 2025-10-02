@@ -6,13 +6,12 @@
 
 ### Currently working on:
 
-<a href="https://github.com/Micharl13/Vector-front-end-framework">Vector front-end framework</a>—A lightweight CSS framework for building responsive websites. Developed by me. Free to use.
+- <a href="https://github.com/Micharl13/Vector-front-end-framework">Vector front-end framework</a>—A lightweight CSS framework for building responsive websites. Developed by me. Free to use.
 
 ### Skills:
 
-A little bit of CSS
-
-A little bit of HTML
+- A little bit of CSS
+- A little bit of HTML
 <!--
 **Micharl13/Micharl13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
