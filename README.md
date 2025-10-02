@@ -7,7 +7,8 @@
 ### Currently working on:
 
 - <a href="https://github.com/Micharl13/Vector-front-end-framework">Vector front-end framework</a>—A lightweight CSS framework for building responsive websites. Developed by me. Free to use.
-Contributions welcome!
+Contributions welcome! [![Contribute](https://img.shields.io/badge/Contribute-here-brightgreen)]([CONTRIBUTING.md](https://github.com/Micharl13/Vector-front-end-framework/blob/main/CONTRIBUTION.md))
+
 
 ### Skills:
 
