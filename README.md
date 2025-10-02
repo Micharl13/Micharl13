@@ -9,7 +9,7 @@
 - <a href="https://github.com/Micharl13/Vector-front-end-framework">Vector front-end framework</a>—A lightweight CSS framework for building responsive websites. Developed by me. Free to use.
 Contributions welcome!
 <p align="center">
-  <a href="https://github.com/Micharl13/Vector-front-end-framework/blob/vDev/CONTRIBUTION.md">
+  <a href="https://github.com/Micharl13/Vector-front-end-framework/blob/vDev/CONTRIBUTING.md">
     <img src="https://img.shields.io/badge/Contribute-here-brightgreen?style=for-the-badge&logo=github" alt="Contribute">
   </a>
 </p>
