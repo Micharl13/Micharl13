@@ -25,7 +25,7 @@
 👉 [**Vector front-end framework**](https://github.com/Micharl13/Vector-front-end-framework)  
 *A WIP open-source CSS framework — responsive, lightweight, and built from scratch by me.*  
 
-(Planning to add more soon — watch this space 👀)
+(Planning to add more in the near future — watch this space 👀)
 
 ---
 
