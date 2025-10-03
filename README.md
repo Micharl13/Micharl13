@@ -3,7 +3,7 @@
 # 👋🏻 Hey there, I’m Micharl13!  
 
 💻 **Teenage developer in training** — figuring out the web one commit at a time.  
-🚀 Currently building: [Vector front-end framework](https://github.com/Micharl13/Vector-front-end-framework) — a lightweight CSS framework for responsive websites. Contributions welcome!  
+🚀 Currently building: [Vector front-end framework](https://github.com/Micharl13/Vector-front-end-framework) — an open-source, lightweight CSS framework for responsive websites. Contributions welcome!  
 
 ---
 
