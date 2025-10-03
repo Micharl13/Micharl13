@@ -1,34 +1,40 @@
 <img width="160" height="160" alt="image" src="https://github.com/user-attachments/assets/eb150c32-8deb-4093-a931-c0b36a47e367" />
 
+# 👋🏻 Hey there, I’m Micharl13!  
 
-# Hi there! 👋🏻
+💻 **Teenage developer in training** — figuring out the web one commit at a time.  
+🚀 Currently building: [Vector front-end framework](https://github.com/Micharl13/Vector-front-end-framework) — a lightweight CSS framework for responsive websites. Contributions welcome!  
 
+---
 
-### Currently working on:
+## 🔨 What I’m Working On
+- ⚡ Learning the ropes of **HTML & CSS**
+- 🏗️ Developing an **open-source CSS framework**
+- 🌱 Exploring **front-end frameworks** and experimenting with web design  
 
-- <a href="https://github.com/Micharl13/Vector-front-end-framework/tree/vDev?tab=readme-ov-file">Vector front-end framework</a>—An open-source, lightweight CSS framework for building responsive websites. Developed by me.
-Contributions welcome!
-<p align="center">
-  <a href="https://github.com/Micharl13/Vector-front-end-framework/blob/vDev/CONTRIBUTING.md">
-    <img src="https://img.shields.io/badge/Contribute-here-brightgreen?style=for-the-badge&logo=github" alt="Contribute">
-  </a>
-</p>
+---
 
+## 🛠️ Skills (so far!)
+- 🌐 HTML (starter level but growing!)
+- 🎨 CSS (dabbling in layout + responsive design)
+- 🧩 Picking up best practices from open source  
 
-### Skills:
+---
 
-- Front-end tinkerer learning HTML & CSS, exploring frameworks, and building small projects to level up.
-<!--
-**Micharl13/Micharl13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📌 Featured Projects
+👉 [**Vector front-end framework**](https://github.com/Micharl13/Vector-front-end-framework)  
+*A WIP open-source CSS framework — responsive, lightweight, and built from scratch by me.*  
 
-Here are some ideas to get you started:
+(Planning to add more soon — watch this space 👀)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎯 Goals
+- ✅ Improve my front-end fundamentals  
+- ✅ Build and ship more open-source projects  
+- 🔜 Learn JavaScript and bring my sites to life  
+- 🏆 Eventually: create full-stack projects!  
+
+---
+
+⭐️ *Follow along on my journey — always happy for tips, feedback, and collaborators!*  
