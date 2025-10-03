@@ -17,8 +17,7 @@ Contributions welcome!
 
 ### Skills:
 
-- A little bit of CSS
-- A little bit of HTML
+- Front-end tinkerer learning HTML & CSS, exploring frameworks, and building small projects to level up.
 <!--
 **Micharl13/Micharl13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
