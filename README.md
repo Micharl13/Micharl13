@@ -25,7 +25,7 @@
 
 ## 📌 Featured Projects
 👉 [**Vector front-end framework**](https://github.com/Micharl13/Vector-front-end-framework/blob/vDev)  
-*A WIP open-source CSS framework — responsive, lightweight, and built from scratch by me.*  
+*A WIP open-source CSS framework — responsive, lightweight, and built from scratch by me, with some base code borrowed from [MDN Web Docs](https://developer.mozilla.org).*  
 
 (Planning to add more in the near future — watch this space 👀)
 
