@@ -1,7 +1,8 @@
 <img width="160" height="160" alt="image" src="https://github.com/user-attachments/assets/eb150c32-8deb-4093-a931-c0b36a47e367" />
 
 # 👋🏻 Hey there, I’m Micharl13!
-
+<sub>Joined July 31st, 2022</sub>
+<br>
 💻 **Teenage developer in training** — figuring out the web one commit at a time.  
 🚀 Currently building: [Vector front-end framework](https://github.com/Micharl13/Vector-front-end-framework/blob/vDev) — a WIP, open-source, lightweight CSS framework for responsive websites. Contributions welcome!  
 
