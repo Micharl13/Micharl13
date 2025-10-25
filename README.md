@@ -3,7 +3,8 @@
 # 👋🏻 Hey there, I’m Micharl13!
 <sub>Joined GitHub on July 31, 2022</sub>
 <br>
-💻 **Teenage developer in training** — figuring out the web one commit at a time.  
+💻 **Teenage developer in training** — figuring out the web one commit at a time.
+
 Currently building: [Vector front-end framework](https://github.com/Micharl13/Vector-front-end-framework/blob/vDev) — a WIP, open-source, lightweight CSS framework for responsive websites. Contributions welcome!  
 
 [![Contribute Here](https://img.shields.io/badge/Contribute-Here-brightgreen?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Micharl13/Vector-front-end-framework/blob/vDev/CONTRIBUTING.md)
@@ -12,7 +13,7 @@ Currently building: [Vector front-end framework](https://github.com/Micharl13/Ve
 
 ## What I’m Working On
 - Learning the ropes of **HTML & CSS**
-- Developing an **open-source CSS framework**
+- Developing an **[Open-source CSS framework](https://github.com/Micharl13/Vector-front-end-framework/blob/vDev)**
 - Exploring **front-end frameworks** and experimenting with web design  
 
 ---
