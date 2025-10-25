@@ -21,4 +21,3 @@ Currently building: [Vector front-end framework](https://github.com/Micharl13/Ve
 ## Skills (so far!)
 - HTML (starter level but growing!)
 - CSS (dabbling in layout + responsive design)
-- Picking up best practices from open source
