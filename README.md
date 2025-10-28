@@ -5,7 +5,7 @@
 <br>
 💻 **Teenage developer in training** — figuring out the web one commit at a time.
 
-Currently building:
+**Currently building:**
 
 - [Vector front-end framework](https://github.com/Micharl13/Vector-front-end-framework/blob/vDev) — a WIP, open-source, lightweight CSS framework for responsive websites. Contributions welcome!  
 
