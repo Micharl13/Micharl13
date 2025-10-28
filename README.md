@@ -17,8 +17,9 @@ Currently building:
 
 ## What I’m Working On
 - Learning the ropes of **HTML & CSS**
-- Developing an **[open-source CSS framework](https://github.com/Micharl13/Vector-front-end-framework/blob/vDev)** and a **[text-based adventure game](https://github.com/Micharl13/TextBasedAdventureGame)**
-- Exploring **front-end frameworks** and experimenting with web design  
+- Developing an **[open-source CSS framework](https://github.com/Micharl13/Vector-front-end-framework/blob/vDev)** and a **[text-based adventure game](https://github.com/Micharl13/TextBasedAdventureGame)** written in C#
+- Exploring **front-end frameworks** and experimenting with web design
+- Learning C#
 
 ---
 
