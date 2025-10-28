@@ -11,7 +11,7 @@ Currently building:
 
 [![Contribute Here](https://img.shields.io/badge/Contribute-Here-brightgreen?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Micharl13/Vector-front-end-framework/blob/vDev/CONTRIBUTING.md)
 
-- [TextBasedAdventureGame](https://github.com/Micharl13/TextBasedAdventureGame) - a small text-based adventure game that I created to start my C# journey.
+- [TextBasedAdventureGame](https://github.com/Micharl13/TextBasedAdventureGame) - a major WIP, small text-based adventure game that I created to start my C# journey.
 
 ---
 
