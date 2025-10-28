@@ -11,13 +11,13 @@ Currently building:
 
 [![Contribute Here](https://img.shields.io/badge/Contribute-Here-brightgreen?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Micharl13/Vector-front-end-framework/blob/vDev/CONTRIBUTING.md)
 
-- [TextBasedAdventureGame](https://github.com/Micharl13/TextBasedAdventureGame)
+- [TextBasedAdventureGame](https://github.com/Micharl13/TextBasedAdventureGame) - a small text-based adventure game that I created to start my C# journey.
 
 ---
 
 ## What I’m Working On
 - Learning the ropes of **HTML & CSS**
-- Developing an **[Open-source CSS framework](https://github.com/Micharl13/Vector-front-end-framework/blob/vDev)**
+- Developing an **[open-source CSS framework](https://github.com/Micharl13/Vector-front-end-framework/blob/vDev)** and a **[text-based adventure game](https://github.com/Micharl13/TextBasedAdventureGame)**
 - Exploring **front-end frameworks** and experimenting with web design  
 
 ---
@@ -25,3 +25,4 @@ Currently building:
 ## Skills (so far!)
 - HTML (starter level but growing!)
 - CSS (dabbling in layout + responsive design)
+- C# (just started learning)
