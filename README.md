@@ -5,9 +5,13 @@
 <br>
 💻 **Teenage developer in training** — figuring out the web one commit at a time.
 
-Currently building: [Vector front-end framework](https://github.com/Micharl13/Vector-front-end-framework/blob/vDev) — a WIP, open-source, lightweight CSS framework for responsive websites. Contributions welcome!  
+Currently building:
+
+- [Vector front-end framework](https://github.com/Micharl13/Vector-front-end-framework/blob/vDev) — a WIP, open-source, lightweight CSS framework for responsive websites. Contributions welcome!  
 
 [![Contribute Here](https://img.shields.io/badge/Contribute-Here-brightgreen?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Micharl13/Vector-front-end-framework/blob/vDev/CONTRIBUTING.md)
+
+- [TextBasedAdventureGame](https://github.com/Micharl13/TextBasedAdventureGame/main)
 
 ---
 
