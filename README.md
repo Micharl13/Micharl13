@@ -26,4 +26,5 @@
 ## Skills (so far!)
 - HTML (starter level but growing!)
 - CSS (dabbling in layout + responsive design)
+- JavaScript (experimenting with functions)
 - C# (just started learning)
