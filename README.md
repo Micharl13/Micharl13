@@ -16,10 +16,10 @@
 
 ## Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=micharl13&layout=compact&theme=github_dark)](https://github.com/micharl13)
+[![Micharl13's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=micharl13&layout=compact&theme=github_dark)](https://github.com/micharl13)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=micharl13&show_icons=true&theme=github_dark&include_all_commits=true&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged)](https://github.com/micharl13)
+[![Micharl13's GitHub stats](https://github-readme-stats.vercel.app/api?username=micharl13&show_icons=true&theme=github_dark&include_all_commits=true&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged)](https://github.com/micharl13)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Micharl13&layout=compact&theme=github_dark)](https://github.com/micharl13)
+[![Micharl13's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Micharl13&layout=compact&theme=github_dark)](https://github.com/micharl13)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=micharl13&theme=github-compact)](https://github.com/micharl13)
+[![Micharl13's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=micharl13&theme=github-compact)](https://github.com/micharl13)
