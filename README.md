@@ -5,10 +5,10 @@
 <br>
 💻 **Teenage developer in training** — figuring out the web one commit at a time.
 
-## Currently building
+## Currently Building
 
 - [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=micharl13&repo=Vector-front-end-framework)](https://github.com/anuraghazra/github-readme-stats)  
 
-Top languages
+## Top Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=micharl13)](https://github.com/anuraghazra/github-readme-stats)
