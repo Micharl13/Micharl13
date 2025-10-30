@@ -1,5 +1,6 @@
 <div align="center">
   <img width="100%" height="100%" src="images/banner.png" />
+  <p><i>“You can’t get a cup of tea big enough or a book long enough to suit me.”</i><br><strong>—C.S. Lewis</strong></p>
 </div>
 
 <img width="160" height="160" alt="image" src="https://github.com/user-attachments/assets/eb150c32-8deb-4093-a931-c0b36a47e367" />
