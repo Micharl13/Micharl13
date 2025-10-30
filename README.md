@@ -11,7 +11,7 @@
 
 ## Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=micharl13&show_icons=true&theme=github_dark&include_all_commits=true&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=micharl13&show_icons=true&theme=github_dark&include_all_commits=true&all_contributed=true&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=micharl13&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
