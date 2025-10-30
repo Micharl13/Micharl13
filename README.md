@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" height="100%" src="images/IMG_2957.gif" />
+  <img width="100%" height="100%" src="IMG_2957.gif" onerror="this.onerror=null;this.src='banner.png';" alt="My cool username animation">
   <p><i>“Programming isn’t about what you know; it’s about what you can figure out.”</i><br><strong>—Chris Pine</strong></p>
 </div>
 
