@@ -1,5 +1,3 @@
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=micharl13&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
 <img width="160" height="160" alt="image" src="https://github.com/user-attachments/assets/eb150c32-8deb-4093-a931-c0b36a47e367" />
 
 # 👋🏻 Hey there, I’m Micharl13!
@@ -9,11 +7,7 @@
 
 **Currently building:**
 
-- [Vector front-end framework](https://github.com/Micharl13/Vector-front-end-framework/blob/vDev) — a WIP, open-source, lightweight CSS framework for responsive websites. Contributions welcome!  
-
-[![Contribute Here](https://img.shields.io/badge/Contribute-Here-brightgreen?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Micharl13/Vector-front-end-framework/blob/vDev/CONTRIBUTING.md)
-
-- [TextBasedAdventureGame](https://github.com/Micharl13/TextBasedAdventureGame) - a major WIP, small text-based adventure game that I created to start my C# journey.
+- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=micharl13&repo=Vector-front-end-framework)](https://github.com/micharl13/Vector-front-end-framework)  
 
 ---
 
