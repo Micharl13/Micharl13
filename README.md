@@ -1,3 +1,5 @@
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=micharl13&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 <img width="160" height="160" alt="image" src="https://github.com/user-attachments/assets/eb150c32-8deb-4093-a931-c0b36a47e367" />
 
 # 👋🏻 Hey there, I’m Micharl13!
