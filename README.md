@@ -32,3 +32,7 @@
 [![Micharl13's GitHub stats](https://github-readme-stats.vercel.app/api?username=micharl13&show_icons=true&theme=github_dark&include_all_commits=true&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged)](https://github.com/micharl13)
 
 [![Micharl13's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=micharl13&theme=github-compact)](https://github.com/micharl13)
+
+## Achievements
+
+<p align="left"> <a href="" target="_blank" rel="noreferrer"> <img src="images/pull-shark" alt="pull-shark achievement" width="50" height="50"/> </a> <a href="" target="_blank" rel="noreferrer"> <img src="images/quick-draw" alt="quick-draw achievement" width="50" height="50"/> </a> <a href="" target="_blank" rel="noreferrer"> <img src="images/sponser" alt="sponser achievement" width="50" height="50"/> </a></p>
