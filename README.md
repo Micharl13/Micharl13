@@ -25,7 +25,7 @@
 
 ## Stats
 
-<p align="left"> <img src="https://img.shields.io/github/followers/Micharl13?label=Followers&style=social" /> <img src="https://komarev.com/ghpvc/?username=Micharl13&label=Profile-Views&views&color=0e75b6&style=flat" alt="Micharl13" /> </p>
+<p align="left"> <img src="https://img.shields.io/github/followers/Micharl13?label=Followers&style=social" /> <img src="https://komarev.com/ghpvc/?username=Micharl13&label=Profile-views&views&color=0e75b6&style=flat" alt="Micharl13" /> </p>
 
 [![Micharl13's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=micharl13&layout=compact&theme=github_dark)](https://github.com/micharl13)
 
