@@ -7,12 +7,12 @@
 
 ## Currently Building
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=micharl13&repo=Vector-front-end-framework&theme=ambient_gradient&bg_color=#000000,#006400)](https://github.com/anuraghazra/github-readme-stats)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=micharl13&repo=Vector-front-end-framework&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)  
 
 ## Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=micharl13&show_icons=true&theme=ambient_gradient&include_all_commits=true&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=micharl13&show_icons=true&theme=transparent&include_all_commits=true&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=micharl13&layout=compact&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=micharl13&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=micharl13&layout=compact&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=micharl13&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
