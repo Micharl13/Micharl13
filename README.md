@@ -16,6 +16,8 @@
 
 ## Stats
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Micharl13&label=Profile views&color=0e75b6&style=flat" alt="Micharl13" /> </p>
+
 [![Micharl13's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=micharl13&layout=compact&theme=github_dark)](https://github.com/micharl13)
 
 [![Micharl13's GitHub stats](https://github-readme-stats.vercel.app/api?username=micharl13&show_icons=true&theme=github_dark&include_all_commits=true&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged)](https://github.com/micharl13)
