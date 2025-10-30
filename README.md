@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" height="100%" src="images/banner-animated.gif" />
+  <img width="100%" height="100%" src="images/IMG_2957.gif" />
   <p><i>“Programming isn’t about what you know; it’s about what you can figure out.”</i><br><strong>—Chris Pine</strong></p>
 </div>
 
