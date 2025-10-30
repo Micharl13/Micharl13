@@ -1,6 +1,6 @@
 <div align="center">
   <img width="100%" height="100%" src="images/banner-animated.gif" alt="My super cool username animation gif that you can't see because your internet is too slow">
-  <p><i>“Programming isn’t about what you <i>know</i>; it’s about what you can <i>figure out</i>.”</i><br><strong>—Chris Pine</strong></p>
+  <p>“Programming isn’t about what you <i>know</i>; it’s about what you can <i>figure out</i>."<br><strong>—Chris Pine</strong></p>
 </div>
 
 <img width="160" height="160" alt="image" src="https://github.com/user-attachments/assets/eb150c32-8deb-4093-a931-c0b36a47e367" />
