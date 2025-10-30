@@ -7,7 +7,7 @@
 
 ## Currently Building
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=micharl13&repo=Vector-front-end-framework&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=micharl13&repo=Vector-front-end-framework&theme=ambient_gradient&bg_color=90,#000000,#006400)](https://github.com/anuraghazra/github-readme-stats)  
 
 ## Stats
 
