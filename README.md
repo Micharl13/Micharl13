@@ -5,22 +5,10 @@
 <br>
 💻 **Teenage developer in training** — figuring out the web one commit at a time.
 
-**Currently building:**
+## Currently building
 
 - [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=micharl13&repo=Vector-front-end-framework)](https://github.com/micharl13/Vector-front-end-framework)  
 
----
+Top languages
 
-## What I’m Working On
-- Learning the ropes of **HTML & CSS**
-- Developing an **[open-source CSS framework](https://github.com/Micharl13/Vector-front-end-framework/blob/vDev)** and a **[text-based adventure game](https://github.com/Micharl13/TextBasedAdventureGame)** written in C#
-- Exploring **front-end frameworks** and experimenting with web design
-- Learning C#
-
----
-
-## Skills (so far!)
-- **HTML** (*starter level but growing!*)
-- **CSS** (*dabbling in layout + responsive design*)
-- **JavaScript** (*experimenting with functions*)
-- **C#** (*just started learning*)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=micharl13)](https://github.com/anuraghazra/github-readme-stats)
