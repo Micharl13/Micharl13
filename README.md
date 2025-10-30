@@ -35,4 +35,4 @@
 
 ## Achievements
 
-<p align="left"> <a href="" target="_blank" rel="noreferrer"> <img src="images/pull-shark" alt="pull-shark achievement" width="50" height="50"/> </a> <a href="" target="_blank" rel="noreferrer"> <img src="images/quick-draw" alt="quick-draw achievement" width="50" height="50"/> </a> <a href="" target="_blank" rel="noreferrer"> <img src="images/sponser" alt="sponser achievement" width="50" height="50"/> </a></p>
+<p align="left"> <a href="" target="_blank" rel="noreferrer"> <img src="images/pull-shark.png" alt="pull-shark achievement" width="50" height="50"/> </a> <a href="" target="_blank" rel="noreferrer"> <img src="images/quick-draw.png" alt="quick-draw achievement" width="50" height="50"/> </a> <a href="" target="_blank" rel="noreferrer"> <img src="images/sponser.png" alt="sponser achievement" width="50" height="50"/> </a></p>
