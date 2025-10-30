@@ -12,12 +12,12 @@
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
-<a href="https://github.com/Micharl13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Micharl13" height="30" width="40" /></a>
-<a href="https://codepen.io/Micharl_13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="Micharl_13" height="30" width="40" /></a>
+<a href="https://github.com/Micharl13" rel="noopener noreferrer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Micharl13" height="30" width="40" /></a>
+<a href="https://codepen.io/Micharl_13" rel="noopener noreferrer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="Micharl_13" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a></p>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a></p>
 
 ## Currently Building
 
@@ -35,4 +35,4 @@
 
 ## Achievements
 
-<p align="left"> <a href="https://github.com/Micharl13?tab=achievements&achievement=pull-shark" target="_blank" rel="noreferrer"> <img src="images/pull-shark.png" alt="Pull Shark achievement" width="100" height="100"/> </a> <a href="https://github.com/Micharl13?achievement=quickdraw&tab=achievements" target="_blank" rel="noreferrer"> <img src="images/quick-draw.png" alt="Quickdraw achievement" width="100" height="100"/> </a> <a href="https://github.com/Micharl13?achievement=public-sponsor&tab=achievements" target="_blank" rel="noreferrer"> <img src="images/sponser.png" alt="Public Sponser achievement" width="100" height="100"/> </a></p>
+<p align="left"> <a href="https://github.com/Micharl13?tab=achievements&achievement=pull-shark" target="_blank" rel="noopener noreferrer"> <img src="images/pull-shark.png" alt="Pull Shark achievement" width="100" height="100"/> </a> <a href="https://github.com/Micharl13?achievement=quickdraw&tab=achievements" target="_blank" rel="noopener noreferrer"> <img src="images/quick-draw.png" alt="Quickdraw achievement" width="100" height="100"/> </a> <a href="https://github.com/Micharl13?achievement=public-sponsor&tab=achievements" target="_blank" rel="noopener noreferrer"> <img src="images/sponser.png" alt="Public Sponser achievement" width="100" height="100"/> </a></p>
