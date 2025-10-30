@@ -20,3 +20,5 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=micharl13&show_icons=true&theme=github_dark&include_all_commits=true&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=micharl13&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=micharl13)](https://github.com/ashutosh00710/github-readme-activity-graph)
