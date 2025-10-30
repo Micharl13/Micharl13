@@ -9,6 +9,8 @@
 
 - [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=micharl13&repo=Vector-front-end-framework)](https://github.com/anuraghazra/github-readme-stats)  
 
-## Top Languages
+## Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=micharl13)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=micharl13&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
