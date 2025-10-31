@@ -37,6 +37,5 @@
 <p align="left"> <a href="https://github.com/Micharl13?tab=achievements&achievement=pull-shark" target="_blank" rel="noopener noreferrer"> <img src="images/pull-shark.png" alt="Pull Shark achievement" width="100" height="100"/> </a> <a href="https://github.com/Micharl13?achievement=quickdraw&tab=achievements" target="_blank" rel="noopener noreferrer"> <img src="images/quick-draw.png" alt="Quickdraw achievement" width="100" height="100"/> </a> <a href="https://github.com/Micharl13?achievement=public-sponsor&tab=achievements" target="_blank" rel="noopener noreferrer"> <img src="images/sponser.png" alt="Public Sponser achievement" width="100" height="100"/> </a></p>
 
 <div align="center">
-  <img width="50%" height="50%" src="images/quote.png" alt="quote: 'Programming isn't about what you know; it's about what you can figure out.'"
-- Chris Pine">
+  <img width="50%" height="50%" src="images/quote.jpg" alt="quote: 'Programming isn't about what you know; it's about what you can figure out.'-Chris Pine">
 </div
