@@ -1,6 +1,6 @@
 <div align="center">
   <img width="100%" height="100%" src="images/banner-animated.gif" alt="My super cool username animation gif that you can't see because your internet is too slow">
-  <img src="images/quote.png" alt="quote: 'Programming isn't about what you know; it's about what you can figure out.'"
+  <img width="50%" height="50%" src="images/quote.png" alt="quote: 'Programming isn't about what you know; it's about what you can figure out.'"
 - Chris Pine">
 </div
 
