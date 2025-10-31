@@ -39,5 +39,5 @@
 <hr>
 
 <div align="center">
-  <img width="50%" height="50%" src="images/quote.jpg" alt="quote: 'Programming isn't about what you know; it's about what you can figure out.'-Chris Pine">
+  <img width="50%" height="50%" src="images/quote.png" alt="quote: 'Programming isn't about what you know; it's about what you can figure out.'-Chris Pine">
 </div
