@@ -2,12 +2,12 @@
   <img width="100%" height="100%" src="images/banner-animated.gif" alt="My super cool username animation gif that you can't see because your internet is too slow">
 </div
 
-<img width="160" height="160" alt="image" src="https://github.com/user-attachments/assets/eb150c32-8deb-4093-a931-c0b36a47e367" />
+<img width="160" height="160" alt="image" src="https://github.com/user-attachments/assets/eb150c32-8deb-4093-a931-c0b36a47e367">
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"> Hey there, I’m Micharl13!
 <sub>Joined GitHub on July 31, 2022</sub>
 <br>
-💻 **Teenage front-end developer in training** — figuring out the web one commit at a time.
+💻 **Teen front-end developer in training** — figuring out the web one commit at a time.
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
@@ -26,7 +26,7 @@
 
 ## Stats
 
-<p align="left"> <img src="https://img.shields.io/github/followers/Micharl13?label=Followers&style=social" /> <img src="https://komarev.com/ghpvc/?username=Micharl13&label=Profile-views&views&color=0e75b6&style=flat" alt="Micharl13" /> </p>
+<p align="left"><img src="https://img.shields.io/github/followers/Micharl13?label=Followers&style=social"><img src="https://komarev.com/ghpvc/?username=Micharl13&label=Profile-views&views&color=0e75b6&style=flat" alt="Micharl13"></p>
 
 [![Micharl13's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=micharl13&layout=compact&theme=github_dark)](https://github.com/micharl13)
 
@@ -36,7 +36,7 @@
 
 ## Achievements
 
-<p align="left"> <a href="https://github.com/Micharl13?tab=achievements&achievement=pull-shark" target="_blank" rel="noopener noreferrer"> <img src="images/pull-shark.png" alt="Pull Shark achievement" width="100" height="100"/> </a> <a href="https://github.com/Micharl13?achievement=quickdraw&tab=achievements" target="_blank" rel="noopener noreferrer"> <img src="images/quick-draw.png" alt="Quickdraw achievement" width="100" height="100"/> </a> <a href="https://github.com/Micharl13?achievement=public-sponsor&tab=achievements" target="_blank" rel="noopener noreferrer"> <img src="images/sponser.png" alt="Public Sponser achievement" width="100" height="100"/> </a></p>
+<p align="left"><a href="https://github.com/Micharl13?tab=achievements&achievement=pull-shark" target="_blank" rel="noopener noreferrer"><img src="images/pull-shark.png" alt="Pull Shark achievement" width="100" height="100"/></a><a href="https://github.com/Micharl13?achievement=quickdraw&tab=achievements" target="_blank" rel="noopener noreferrer"><img src="images/quick-draw.png" alt="Quickdraw achievement" width="100" height="100"/></a><a href="https://github.com/Micharl13?achievement=public-sponsor&tab=achievements" target="_blank" rel="noopener noreferrer"><img src="images/sponser.png" alt="Public Sponser achievement" width="100" height="100"/></a></p>
 
 <hr>
 
