@@ -7,7 +7,7 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"> Hey there, I’m Micharl13!
 <sub>Joined GitHub on July 31, 2022</sub>
 <br>
-💻 **Teen front-end developer in training** — figuring out the web one commit at a time.
+💻 **Teen front-end and opensource developer in training** — figuring out the web one commit at a time.
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
