@@ -9,12 +9,10 @@
 <br>
 💻 **Teen front-end and open-source developer in training** — figuring out the web one commit at a time.
 
-<h3 align="left">Connect with me</h3>
-<p align="left">
-<a href="https://github.com/Micharl13" rel="noopener noreferrer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Micharl13" height="30" width="40" /></a>
-<a href="https://codepen.io/Micharl_13" rel="noopener noreferrer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="Micharl_13" height="30" width="40" /></a>
-</p>
+## Connect with me</h3>
 [![Portfolio](https://cdn.simpleicons.org/googlechrome/white?background=000)](https://your-portfolio.example)
+[[GitHub](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg)](https://github.com/Micharl13)
+[[CodePen](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg)](https://codepen.io/Micharl_13)
 
 <h3 align="left">Languages and Tools</h3>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a></p>
