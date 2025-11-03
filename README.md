@@ -9,12 +9,13 @@
 <br>
 💻 **Teen front-end and open-source developer in training** — figuring out the web one commit at a time.
 
-## Connect with me</h3>
-[![Portfolio](https://cdn.simpleicons.org/googlechrome/white?background=000)](https://micharl13.github.io/index.html)
+## Connect with me
 
-[[GitHub](github)](https://github.com/Micharl13)
-
-[[CodePen](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg)](https://codepen.io/Micharl_13)
+<p align="left">
+  <a href="https://micharl13.github.io/index.html"><img src="https://cdn.simpleicons.org/googlechrome" width="32"></a>
+  <a href="https://github.com/Micharl13"><img src="https://cdn.simpleicons.org/github" width="32"></a>
+  <a href="https://codepen.io/Micharl_13"><img src="https://cdn.simpleicons.org/codepen"></a>
+</p>
 
 <h3 align="left">Languages and Tools</h3>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a></p>
