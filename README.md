@@ -9,14 +9,14 @@
 <br>
 💻 **Teen front-end and open-source developer in training** — figuring out the web one commit at a time.
 
-## Connect with me
+### Connect with me
 <p align="left">
   <a href="https://micharl13.github.io/index.html"><img src="https://cdn.simpleicons.org/googlechrome/ffffff?background=000" width="32"></a>
   <a href="https://github.com/Micharl13"><img src="https://cdn.simpleicons.org/github/ffffff?background=000" width="32"></a>
   <a href="https://codepen.io/Micharl_13"><img src="https://cdn.simpleicons.org/codepen/ffffff?background=000" width="32"></a>
 </p>
 
-## Languages and Tools
+### Languages and Tools
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"></a>
