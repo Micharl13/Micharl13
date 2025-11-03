@@ -12,7 +12,7 @@
 ## Connect with me</h3>
 [![Portfolio](https://cdn.simpleicons.org/googlechrome/white?background=000)](https://micharl13.github.io/index.html)
 
-[[GitHub](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg)](https://github.com/Micharl13)
+[[GitHub](github)](https://github.com/Micharl13)
 
 [[CodePen](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg)](https://codepen.io/Micharl_13)
 
