@@ -12,9 +12,9 @@
 ## Connect with me
 
 <p align="left">
-  <a href="https://micharl13.github.io/index.html"><img src="https://cdn.simpleicons.org/googlechrome" width="32"></a>
-  <a href="https://github.com/Micharl13"><img src="https://cdn.simpleicons.org/github" width="32"></a>
-  <a href="https://codepen.io/Micharl_13"><img src="https://cdn.simpleicons.org/codepen"></a>
+  <a href="https://micharl13.github.io/index.html"><img src="https://cdn.simpleicons.org/googlechrome/ffffff?background=000" width="32"></a>
+  <a href="https://github.com/Micharl13"><img src="https://cdn.simpleicons.org/github/ffffff?background=000" width="32"></a>
+  <a href="https://codepen.io/Micharl_13"><img src="https://cdn.simpleicons.org/codepen/ffffff?background=000" width="32"></a>
 </p>
 
 <h3 align="left">Languages and Tools</h3>
