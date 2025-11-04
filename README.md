@@ -17,9 +17,9 @@
 
 ## Currently Building
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?org=WitnessDevs=Vector&theme=github_dark)](https://github.com/micharl13/Vector)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WitnessDevs&repo=Vector&theme=github_dark)](https://github.com/micharl13/Vector)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?org=WitnessDevs=icons&theme=github_dark)](https://github.com/micharl13/icons)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WitnessDevs&repo=icons&theme=github_dark)](https://github.com/micharl13/icons)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?org=micharl13&repo=micharl13.github.io&theme=github_dark)](https://github.com/micharl13/micharl13.github.io)
 
