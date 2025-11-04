@@ -8,6 +8,8 @@
 <sub>Joined GitHub on July 31, 2022</sub>
 <br>
 💻 **Teen front-end and open-source developer-in-training** — figuring out the web one commit at a time.
+<br>
+- Founder of [@WitnessDevs](https://github.com/WitnessDevs)
 
 ### Connect with me
 <p align="left"> <a href="https://micharl13.github.io/index.html" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.simpleicons.org/safari/ffffff?background=000" width="32"> </a> <a href="https://github.com/Micharl13" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.simpleicons.org/github/ffffff?background=000" width="32"> </a> <a href="https://codepen.io/Micharl_13" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.simpleicons.org/codepen/ffffff?background=000" width="32"></a> </p>
