@@ -19,6 +19,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=micharl13&repo=Vector-front-end-framework&theme=github_dark)](https://github.com/micharl13/Vector-front-end-framework)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=micharl13&repo=icons&theme=github_dark)](https://github.com/micharl13/icons)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=micharl13&repo=micharl13.github.io&theme=github_dark)](https://github.com/micharl13/micharl13.github.io)
 
 ## Stats
