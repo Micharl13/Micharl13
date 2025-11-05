@@ -12,10 +12,10 @@
 - Founder of [@WitnessDevs](https://github.com/WitnessDevs)
 
 ### Connect with me
-<p align="left"> <a href="https://micharl13.github.io/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.simpleicons.org/safari/ffffff?background=000" width="32"> </a> <a href="https://github.com/Micharl13" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.simpleicons.org/github/ffffff?background=000" width="32"> </a> <a href="https://codepen.io/Micharl_13" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.simpleicons.org/codepen/ffffff?background=000" width="32"></a> </p>
+<p align="left"> <img src="https://cdn.simpleicons.org/safari/ffffff?background=000" width="40"> <img src="https://cdn.simpleicons.org/github/ffffff?background=000" width="40"> <img src="https://cdn.simpleicons.org/codepen/ffffff?background=000" width="40"> </p>
 
 ### Languages and Tools
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="50" height="50"> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="50" height="50"> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="50" height="50"> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/Sass"> <img src="https://skillicons.dev/icons?i=sass" alt="sass" width="50" height="50"> </a> </p>
+<p align="left">  <img src="https://skillicons.dev/icons?i=html" alt="html5" width="50" height="50"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="50" height="50"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="50" height="50"> <img src="https://skillicons.dev/icons?i=sass" alt="sass" width="50" height="50"> </p>
 
 ## Currently Building
 
