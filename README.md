@@ -9,6 +9,7 @@
 <br>
 💻 **Teen front-end and open-source developer-in-training** — figuring out the web one commit at a time.
 <br>
+- I am one of Jehovah's Witnesses
 - Founder of [@WitnessDevs](https://github.com/WitnessDevs)
 
 ### Connect with me
