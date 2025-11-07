@@ -22,7 +22,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WitnessDevs&repo=vector&theme=github_dark)](https://github.com/WitnessDevs/Vector)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WitnessDevs&repo=cons&theme=github_dark)](https://github.com/WitnessDevs/icons)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WitnessDevs&repo=icons&theme=github_dark)](https://github.com/WitnessDevs/icons)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=micharl13&repo=micharl13.github.io&theme=github_dark)](https://github.com/micharl13/micharl13.github.io)
 
