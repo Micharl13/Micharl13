@@ -20,7 +20,7 @@
 
 ## Currently Building
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WitnessDevs&repo=Vector&theme=github_dark)](https://github.com/WitnessDevs/Vector)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WitnessDevs&repo=vector&theme=github_dark)](https://github.com/WitnessDevs/Vector)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WitnessDevs&repo=icons&theme=github_dark)](https://github.com/WitnessDevs/icons)
 
