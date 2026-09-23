@@ -19,9 +19,7 @@
 
 ## Currently Building
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=micharl13&repo=vector&theme=github_dark)](https://github.com/micharl13/Vector)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=micharl13&repo=micharl13.github.io&theme=github_dark)](https://github.com/micharl13/micharl13.github.io)
+![Project Card](https://github-project-cards.vercel.app/api/project-card?repo=micharl13/vector)
 
 ## Stats
 
