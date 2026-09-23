@@ -19,7 +19,7 @@
 
 ## Currently Building
 
-[![Project Card](https://github-project-cards.vercel.app/api/project-card?repo=micharl13/vector)](https://github.com/Micharl13/vector/blob/main/site/assets/images/vectorlogo.png?raw=true)
+![Project Card](https://github-project-cards.vercel.app/api/project-card?repo=Micharl13%2Fvector&lang=en&theme=github&image=https%3A%2F%2Fgithub.com%2FMicharl13%2Fvector%2Fblob%2Fmain%2Fsite%2Fassets%2Fimages%2Fvectorlogo.png%3Fraw%3Dtrue&techs=SASS%2C+CSS&showStars=true&showForks=true)
 
 ## Stats
 
